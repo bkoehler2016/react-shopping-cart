@@ -11,7 +11,6 @@ const Navigation = () => {
       <NavLink to="/cart">
         Cart <span>{cart.length}</span>
       </NavLink>
-      p
     </div>
   );
 };
